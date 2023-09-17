@@ -11,10 +11,6 @@
         <template v-slot:before>
           <avatar-component :top="false" url="https://media.licdn.com/dms/image/C4D03AQFRa-PT-Ww3CQ/profile-displayphoto-shrink_400_400/0/1654750359070?e=1700092800&v=beta&t=pRjZPkfYdJ8HXTAU1lL-X1wOMze5vxSoZNkuXbut2zY" />
         </template>
-  
-        <template v-slot:hint>
-          Field hint
-        </template>
       </q-input>
     </div>
     <div class="col col-shrink">
